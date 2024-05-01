@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_felwine_documentation=self.webpackChunk_felwine_documentation||[]).push([[6357],{30015:e=>{e.exports=JSON.parse('{"permalink":"/documentation/blog/tags/felwine","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

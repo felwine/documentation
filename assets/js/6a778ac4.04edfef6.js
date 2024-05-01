@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_felwine_documentation=self.webpackChunk_felwine_documentation||[]).push([[2634],{75356:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/documentation/blog/tags/hello","allTagsPath":"/documentation/blog/tags","count":2}')}}]);
